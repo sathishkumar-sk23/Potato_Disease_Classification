@@ -53,5 +53,4 @@ You can test the model with new potato leaf images by running the **Predict Cust
 This project was implemented using **PyTorch**, focusing on its deep learning capabilities for image classification.
 
 ---
-**📢 Feel free to contribute or raise an issue if you have any suggestions!** 🚀
 
