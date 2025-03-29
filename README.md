@@ -17,12 +17,12 @@ This repository contains a deep learning model for classifying potato diseases u
 - The dataset was split into **80% training** and **20% testing**.
 - Kaggle Dataset Link: https://www.kaggle.com/datasets/hafiznouman786/potato-plant-diseases-data/data
 
-##  Model Training Process
+## Model Training Process
 1. **Get Data**: Load the dataset and create train-test splits.
 2. **Visualize Images**: Display sample images to understand data distribution.
 3. **Transform Data**: Apply data augmentation and normalization.
 4. **Load Images**: Use PyTorch `DataLoader` for efficient batch processing.
-5. **Train Model**: Experimented with multiple CNN architectures.
+5. **Train Model**: Experimented with multiple CNN architectures using PyTorch.
 6. **Make Predictions**: Evaluate the model on test data.
 7. **Evaluate Performance**: Compute accuracy, confusion matrix, and loss curves.
 8. **Predict Custom Images**: Test the model on new images.
@@ -45,9 +45,13 @@ Open `PotatoDiseasesClassifier_Final.ipynb` and execute the cells to train/evalu
 ### 4️⃣ Predict on New Images
 You can test the model with new potato leaf images by running the **Predict Custom Image** section in the final notebook.
 
-##  Results
+## Results
 - The best-performing model achieved **95% accuracy** on the test set.
 - The confusion matrix shows strong classification performance across all three categories.
 
+## 🔥 Why This Project?
+This project was implemented using **PyTorch**, focusing on its deep learning capabilities for image classification.
+
 ---
+**📢 Feel free to contribute or raise an issue if you have any suggestions!** 🚀
 
