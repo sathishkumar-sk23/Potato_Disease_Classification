@@ -15,6 +15,7 @@ This repository contains a deep learning model for classifying potato diseases u
   - Potato___Early_Blight
   - Potato___Late_Blight
 - The dataset was split into **80% training** and **20% testing**.
+- Kaggle Dataset Link: https://www.kaggle.com/datasets/hafiznouman786/potato-plant-diseases-data/data
 
 ##  Model Training Process
 1. **Get Data**: Load the dataset and create train-test splits.
