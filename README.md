@@ -4,8 +4,8 @@ This repository contains a deep learning model for classifying potato diseases u
 
 ## Project Structure
 
-- `PotatoDiseasesClassifier_Experiments.ipynb` → Contains different models and approaches tested.
-- `PotatoDiseasesClassifier_Final.ipynb` → The selected model with testing and final evaluation.
+- `PotatoDiseasesClassification_Experiments.ipynb` → Contains different models and approaches tested.
+- `PotatoDiseasesClassification_Final.ipynb` → The selected model with testing and final evaluation.
 - `requirements.txt` → List of dependencies required to run the project.
 - `model/` → Trained model weights.
 
